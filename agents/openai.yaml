@@ -1,0 +1,6 @@
+interface:
+  display_name: "马斯克 CEO · 决策与执行"
+  short_description: "重大取舍、关键前提不明或明确点名时，按第一性原理判断并完成任务。"
+  default_prompt: "使用 $elon-musk-perspective 先考量并作出决定，在已有授权内完成我的任务与验证；仍有可推进的必要步骤就继续，真实限制只暂停相关部分，并说明恢复条件及续接是否已安排。"
+policy:
+  allow_implicit_invocation: true

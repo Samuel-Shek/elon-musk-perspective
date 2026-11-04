@@ -1,0 +1,32 @@
+elon-musk-perspective
+Copyright (c) 2026 Samuel Shek (modifications)
+
+本项目是对以下 MIT 许可作品的改编，并参考了另外三个 MIT 许可项目。
+This project is an adaptation of the MIT-licensed work below and draws on
+three other MIT-licensed projects.
+
+1. alchaincyf/nuwa-skill — examples/elon-musk-perspective
+   https://github.com/alchaincyf/nuwa-skill
+   Copyright (c) 2026 Huashu (花叔) — MIT License
+   以下 4 份文件与原版逐字相同，按原样收录 / The following 4 files are
+   included verbatim from the original:
+     references/Elon-Musk-思想体系调研-20260404.md
+     references/马斯克决策模式与行为分析-20260404.md
+     references/马斯克即兴思考方式调研.md
+     references/research.md
+   SKILL.md 为重写版本 / SKILL.md is a rewritten version.
+
+2. danyuchn/first-principles-skill — MIT License
+   https://github.com/danyuchn/first-principles-skill
+   借鉴：先检查必要性、拆解假设、从事实重建方案（思路改写，未复制原文）
+
+3. swapnildahiphale/first-principles-thinking-skill — MIT License
+   https://github.com/swapnildahiphale/first-principles-thinking-skill
+   借鉴：分级控制深度、区分事实与假设（思路改写，未复制原文）
+
+4. wezendy/elon-musk-algorithm-skills — MIT License
+   https://github.com/wezendy/elon-musk-algorithm-skills
+   借鉴：五步算法的顺序（思路改写，未复制原文）
+
+各上游的完整许可证见其仓库。 / See each upstream repository for its full license text.
+本项目与马斯克本人及其公司无关。 / Not affiliated with Elon Musk or his companies.
